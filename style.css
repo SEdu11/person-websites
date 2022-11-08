@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(190, 189, 186);
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    margin: 10px;
+}
+.navbar ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: yellow;
+    padding: 20px;
+}
+.navbar ul li a:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+}
+img{
+    padding-left: 25%;
+    padding-top: 10px;
+}
+.main{
+    color: white;
+    padding-left: 45%;
+}
+.btn{
+    color: white;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 5px white,0 0 10px white ,0 0 15px white;
+    font-weight: bold;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    margin: 10px;
+}
+.navbar ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: yellow;
+    padding: 20px;
+}
+.navbar ul li a:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+}
+h2{
+    padding-left: 40%;
+    padding-top: 20px;
+    color: aqua;
+}
+p{
+    padding-left: 45%;
+    padding-top: 20px;
+    font-size: 25px;
+}
+h5{
+    padding-left: 35%;
+    font-size: 40px;
+}
+.side a{
+    padding-left: 20px;
+    color: cyan;
+    text-decoration: none;
+    font-size: 30px;
+    box-sizing: 20px;
+}
+.side a:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 5px white,0 0 10px white ,0 0 15px white;
+    font-weight: bold;
+}
+h4{
+    padding-left: 35%;
+    font-size: 40px;
+}
+h1{
+    padding-right: 30%;
+}
